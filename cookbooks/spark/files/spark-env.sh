@@ -69,5 +69,5 @@
 # - OPENBLAS_NUM_THREADS=1   Disable multi-threading of OpenBLAS
 
 #export SPARK_WORKER_CORES=8
-export JAVA_HOME=/usr/java/default
+export JAVA_HOME=/usr/lib/jvm/java-8-oracle/
 export SCALA_HOME=/opt/scala/scala-2.11.12
